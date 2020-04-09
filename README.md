@@ -61,7 +61,7 @@ to avoid DOS by implementing RA (Router Advertisement) Guard, to filter the orif
 
 ND exposes its weakness due to Fragmentation, so SND rules out that fragment is banned. 
 
-# Neighbor Cache  (table) & Destination Cache
+# Neighbor Cache  (table) & Destination Cache (local & remote)
 
 this cached table shows out 
 
