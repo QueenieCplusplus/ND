@@ -60,3 +60,11 @@ Secure Neighbor Discovery
 to avoid DOS by implementing RA (Router Advertisement) Guard, to filter the orifinal router in Link-state layer via ND header.
 
 ND exposes its weakness due to Fragmentation, so SND rules out that fragment is banned. 
+
+# Neighbor Cache  (table) & Destination Cache
+
+this cached table shows out 
+
+1) the datagram queue is reached to des or not.
+
+2) reachable Neghibour.
