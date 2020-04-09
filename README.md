@@ -72,3 +72,9 @@ neighbor cached table shows out
 2) reachable Neghibour.
 
 3) process called if NUD (unreachable) Event happens.
+
+         ASW1$show ipv6 neighbors
+         
+         IPv6 Addr   age   Link-Layer Addr         State      Interface
+                           0800:27dd:edd3          REACH        v110
+                                                   STALE        Fa0/1
