@@ -22,3 +22,19 @@ ND defines how to detect unreacheachability using NUD schematics:
 
 7) (omit)
 
+ND specifies the spec of Host & Router. Including: (RFC 4861)
+
+* ND, Neighbor Discovery
+
+* RD, Router Discovery
+
+* AR, Address Resolution
+
+* NUD, Neighbor Unreachability Detection
+
+* DAD, Duplicate Address Detection
+
+* Redirection
+
+
+
