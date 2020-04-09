@@ -31,7 +31,7 @@ ND defines how to detect unreacheachability using NUD schematics:
 
 5) to detect the modified data-link layer addr.
 
-6) max hop counts is 255.
+6) max hop counts is 255. Under this index, path will be considered to be TIMEOUT.
 
 7) (omit)
 
