@@ -57,13 +57,4 @@ ND is easier to be attacked by DOS, since its Router can be forged to be Default
 
 Secure Neighbor Discovery
 
-to avoid DOS by implementing RA (Router Advertisement) Guard, to filter the orifinal router in Link-state layer.
-
-
-
-
-
-
-
-
-
+to avoid DOS by implementing RA (Router Advertisement) Guard, to filter the orifinal router in Link-state layer via ND header.
