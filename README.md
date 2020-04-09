@@ -75,6 +75,6 @@ neighbor cached table shows out
 
          ASW1$show ipv6 neighbors
          
-         IPv6 Addr      age   Link-Layer Addr     State      Interface
+         IPv6 Addr      age   Link-Layer Addr     State     Interface
          8個16進制位元組        0800:27dd:edd3      REACH      v110
                                                   STALE      Fa0/1
