@@ -2,7 +2,7 @@
 
 ARP in IPv6
 
-Network Discover, Router Solicitation （探索） &amp; Advertisement （通告), Link_layer addr
+Network Discover, Router Solicitation （探索） &amp; Advertisement （通告), Link_layer addr, SAAC (Stateless Adress Auto Config)
 
 IPv6 結合了 IPv4 的 ARP 與 ICMP 及 Redirect。除了改良了 IPv4 版本也追加了 ND 新功能，此一功能能夠探測鄰近路由是否可到達。
    
@@ -27,7 +27,7 @@ ND defines how to detect unreacheachability using NUD schematics:
 
 3) to check subnet mask (prefix).
 
-4) stateless addr 無接縫或稱無狀態 自動組態 autoconfig .
+4) DHCPv6 使用 SAAC 無接縫或稱無狀態位址自動組態取代 DHCPv4.
 
 5) to detect the modified data-link layer addr.
 
