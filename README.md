@@ -31,7 +31,7 @@ ND defines how to detect unreacheachability using NUD schematics:
 
 5) to detect the modified data-link layer addr.
 
-6) (omit)
+6) max hop counts is 255.
 
 7) (omit)
 
