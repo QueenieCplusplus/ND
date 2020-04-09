@@ -1,6 +1,6 @@
 # ND
 
-see IPv6
+ARP in IPv6
 
 Network Discover, Router Solicitation （探索） &amp; Advertisement （通告）
 
