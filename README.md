@@ -51,6 +51,10 @@ ND specifies the spec of Host & Router. Including: (RFC 4861)
 
 Weakness of ND see RFC 6583
 
+ND is easier to be attacked by DOS, since its Router can be forged to be Default GW and advertise this forged info to other Routers in same Subnet (same prefix or same network mask).
+
+# SND
+
 
 
 
