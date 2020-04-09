@@ -2,6 +2,8 @@
 
 see IPv6
 
-Network Discover, Router Solicitation &amp; Advertisement
+Network Discover, Router Solicitation （探索） &amp; Advertisement （通告）
 
-(to be continued...)
+ND 結合了 ARP 與 ICMP 及 Redirect。
+
+
