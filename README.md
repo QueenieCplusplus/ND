@@ -47,8 +47,10 @@ ND specifies the spec of Host & Router. Including: (RFC 4861)
 
 * DAD, Duplicate Address Detection
 
-* Redirection
+* ICMP Redirection
 
 Weakness of ND see RFC 6583
+
+
 
 
