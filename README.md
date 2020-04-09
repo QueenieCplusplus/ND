@@ -63,7 +63,9 @@ ND exposes its weakness due to Fragmentation, so SND rules out that fragment is 
 
 # Neighbor Cache  (table) & Destination Cache (local & remote)
 
-this cached table shows out 
+the two table is distinguished by the facto that Neighbor is act role as subnet info to DES.
+
+neighbor cached table shows out 
 
 1) the datagram queue is reached to des or not.
 
