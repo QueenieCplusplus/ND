@@ -68,3 +68,5 @@ this cached table shows out
 1) the datagram queue is reached to des or not.
 
 2) reachable Neghibour.
+
+3) process called if NUD (unreachable) Events happens.
