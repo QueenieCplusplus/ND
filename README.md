@@ -27,7 +27,7 @@ ND defines how to detect unreacheachability using NUD schematics:
 
 3) to check subnet mask (prefix).
 
-4) stateless 無接縫.
+4) stateless addr 無接縫或稱無狀態 自動組態 autoconfig .
 
 5) to detect the modified data-link layer addr.
 
