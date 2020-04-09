@@ -69,4 +69,4 @@ this cached table shows out
 
 2) reachable Neghibour.
 
-3) process called if NUD (unreachable) Events happens.
+3) process called if NUD (unreachable) Event happens.
